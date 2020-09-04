@@ -6,3 +6,6 @@
 
 ```$ bundle install```<br>
 ```$ bundle exec cucumber -p default```
+
+
+#### The main idea is for the project to be used as a template when one wants to build simple HTTParty tests with a simple project architecture
